@@ -42,11 +42,5 @@
                 <p>Notifications</p>
             </a>
         </li>
-        <li class="active-pro">
-            <a href="<?php echo base_url();?>auth/examplePages/upgrade">
-                <i class="material-icons">unarchive</i>
-                <p>Upgrade to PRO</p>
-            </a>
-        </li>
     </ul>
 </div>
