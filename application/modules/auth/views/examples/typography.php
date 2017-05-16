@@ -12,7 +12,7 @@
 				</a>
 			</div>
 
-            <?php include "../include/sidebar.php"; ?>
+            <?php $this->load->view('include/sidebar.php');?>
 	    </div>
 
 	    <div class="main-panel">
