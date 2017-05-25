@@ -11,3 +11,5 @@ Change database detail as per your need.
 Default username and password are:
 Username: admin@admin.com
 Password: password
+
+update details of configuration and system soon
