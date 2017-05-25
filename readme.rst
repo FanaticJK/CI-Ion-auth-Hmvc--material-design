@@ -12,4 +12,5 @@ Default username and password are:
 Username: admin@admin.com
 Password: password
 
-update details of configuration and system soon
+update details of configuration and system will soon be available
+
